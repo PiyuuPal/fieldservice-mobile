@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "661840654429",
+    "project_id": "cyberwolf-f4719",
+    "storage_bucket": "cyberwolf-f4719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661840654429:android:e069d55e51521cc0575db4",
+        "android_client_info": {
+          "package_name": "com.cyberwolftechnician.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661840654429-dku1p177lua2d4qaihkbvc6njgsfl7d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberwolftechnician.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "661840654429-9mfch2o3fj4g2f000mam2595dbse8jra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO0XdkidE51O4r4klobzzME67bWA_k-d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661840654429-9mfch2o3fj4g2f000mam2595dbse8jra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
